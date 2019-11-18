@@ -19,7 +19,7 @@ if($info){
 		echo "\n#################################################";
 		echo "\n KENA LIMIT BOSS, COBA MODE PESAWAT DULU :)";
 		echo "\n STATUS CODE : ".$obj->{'status_code'}."\n PESAN : ".$obj->{'status_message'};
-		echo "\n#################################################";
+		echo "\n#################################################\n";
 	}else{
 		$supportsHttps 		= $obj->{'supportsHttps'}; 
 		$country 			= $obj->{'country'}; 
