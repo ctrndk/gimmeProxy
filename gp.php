@@ -1,7 +1,7 @@
 <?php
 function h3ader(){
 	echo "\n#################################################";
-	echo "\n      GRABBER PROXY | By @CTRNDK  @[V.01]";
+	echo "\n        GiMMe PROXY | By @CTRNDK  @[V.01]";
 	echo "\n               [Support HTTPS]";
 	echo "\n#################################################";
 }
